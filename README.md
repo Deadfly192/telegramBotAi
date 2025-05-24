@@ -22,5 +22,5 @@ This project is a Telegram bot that utilizes the Mistral API to generate respons
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Deadfly192/telegramBotAi/blob/main/README.md
+   cd telegramBotAi
